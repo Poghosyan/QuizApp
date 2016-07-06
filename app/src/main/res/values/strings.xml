@@ -4,4 +4,8 @@
     <string name="submit">Submit</string>
     <string name="answer_text">answer_text</string>
     <string name="hint_text">hint text</string>
+    <string name="text_answer_first">first answer</string>
+    <string name="text_answer_second">second answer</string>
+    <string name="questions">QUESTIONS</string>
+    <string name="score">SCORE</string>
 </resources>

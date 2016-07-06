@@ -29,6 +29,7 @@
             <RadioButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
+                android:id="@+id/right_answer_radio"
                 android:text="@string/answer_text" />
             <RadioButton
                 android:layout_width="wrap_content"
@@ -44,6 +45,7 @@
         <CheckBox
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:id="@+id/right_answer_check1"
             android:text="@string/answer_text" />
 
         <CheckBox
@@ -54,6 +56,7 @@
         <CheckBox
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:id="@+id/right_answer_check2"
             android:text="@string/answer_text" />
 
         <TextView
@@ -64,6 +67,7 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/text_answer_first"
             android:hint="@string/hint_text" />
 
         <TextView
@@ -74,6 +78,7 @@
         <EditText
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
+            android:id="@+id/text_answer_second"
             android:hint="@string/hint_text" />
 
         <Button
