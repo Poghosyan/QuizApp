@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">QuizApp</string>
+    <string name="placeholder_text">Question text here!</string>
+    <string name="submit">Submit</string>
+    <string name="answer_text">answer_text</string>
+    <string name="hint_text">hint text</string>
 </resources>
